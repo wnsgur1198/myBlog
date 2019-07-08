@@ -1,1 +1,1 @@
-web: gunicorn second_assignment.wsgi --log-file -
+web: gunicorn secondproject.wsgi --log-file -
