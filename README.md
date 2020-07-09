@@ -1,8 +1,9 @@
 # myBlog
 > 학부생 3학년 1학기 때 개발한 나의 블로그
 
-![](readme-img/header1.png)
-![](readme-img/header2.png)
+![](readme-img/header.png)
+![](readme-img/func1.png)
+![](readme-img/func2.png)
 
 ## Installation
 
@@ -10,26 +11,33 @@
 
 ## Usage example
 
-
+장고 프레임워크를 사용하여 블로그 및 포트폴리오 웹 구현
 
 ## Development setup
 
-Framework: Django
+Framework: Django 2.2.14
 
 ## Release History
 
-
 * 1.0.0
-    * first commit
+    * fifth commit
     * 개발 완료
+    
+* 0.4.0
+    * fourth commit
+    * 포트폴리오 기능 구현
 
-* 1.0.0
-    * second commit
-    * 개발 완료
+* 0.3.0
+    * third commit
+    * 블로그 기능 구현
 
-* 1.0.0
-    * first commit
-    * 개발 완료
+* 0.2.0
+    * second commit of myBlog
+    * 홈 페이지 구현
+
+* 0.1.0
+    * commit of myBlog
+    * 프론트엔드 구현
 
 ## Meta
 
